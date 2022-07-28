@@ -46,6 +46,7 @@ INSTALLED_APPS = [
 # Applications defined in project
 PROJECT_APPS = (
     'general',
+    'account'
 )
 
 INSTALLED_APPS.extend(PROJECT_APPS)
